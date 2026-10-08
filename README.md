@@ -402,4 +402,4 @@
 
 - 隧道与代理思路参考 [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) 公开项目（仅借鉴原理，代码独立实现）
 - 优选数据源：bestcf、WeTest、HostMonit 等社区维护
-- 本项目的图形化配置、优选器、多客户端订阅等功能均为独立实现
+- 本项目的图形化配置、优选器、多客户端订阅等功能均
